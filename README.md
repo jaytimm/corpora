@@ -4,7 +4,7 @@
 corpus](https://osf.io/snpcg/) -
 \[[Article](https://link.springer.com/article/10.3758/s13428-021-01698-z)\]
 
-[DCInbox](https://www.dcinbox.com/about/) Official e-newsletters from
+[DCInbox](https://www.dcinbox.com/about/) - Official e-newsletters from
 every member of Congress
 
 [Princeton Corpus of Political Emails](https://electionemails2020.org/)
