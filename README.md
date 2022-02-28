@@ -8,5 +8,5 @@ corpus](https://osf.io/snpcg/) -
 every member of Congress
 
 [Princeton Corpus of Political Emails](https://electionemails2020.org/)
-- \[[Working
-paper](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)\]
+-
+\[[Paper](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)\]

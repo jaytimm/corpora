@@ -11,5 +11,7 @@ output:
 
 [DCInbox](https://www.dcinbox.com/about/) - Official e-newsletters from every member of Congress
 
-[Princeton Corpus of Political Emails](https://electionemails2020.org/) - [[Working paper](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)]
+
+[Princeton Corpus of Political Emails](https://electionemails2020.org/) - [[Paper](https://electionemails2020.org/assets/manipulative-political-emails-working-paper.pdf)]
+
 
